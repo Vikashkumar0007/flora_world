@@ -1,10 +1,8 @@
-# flora_world
+# Flora World Android Application
 Go green with 'Flora World' Garden community!
 
 # Summary (Work In Progress)
 Flora World is an android application for people to get & share info, DIYs, resources regarding different plants to decorate in their garden and get maximum benefits from them, also one can share their plant needs and offers within the community. Especially, during this situation when global warming is on rise, and deforestation is on peak, we realised how important it is for people to help each other to grow plants for themselves & environment. To help with that, the app aims to create virtual community to bring flora world into action, by creating awareness among people about advantages of different types of plants and proper steps, conditions to grow them in ones garden. Also, people can share or order seeds & plants for their garden.
-
-# Flora World Android Application
 
 ## Getting Started
 This package was implemented using Android Studio
