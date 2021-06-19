@@ -23,8 +23,7 @@ Nowadays, our world is facing several challenging environmental problems. So, th
 Flora world is a garden community platform where people can share garden hacks with each other and help to keep themselves aware about environmental challenges, and as a community they would be able to solve the problem using this Platform.
 
 ## How can technology help?
-
-## How it works?
+Technology help us to create such platform to make garden community possible. With advance search, ai based suggestions, geometric location feature we would be able to provide best experience to users.
 
 
 ## Installation
