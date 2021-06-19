@@ -17,11 +17,13 @@ This package was implemented using Android Studio
 * Technology Used
 
 ## What's the problem?
-Nowadays, our world is facing several challalenging environmental problems. So, there's need to become increasingly aware of the problems that surround it. Most of the people are not aware about these problems, and if someone is aware, they don't know the solutions to tackle this, or they need a platform or community where with like minded people they would be able to bring positive inclination in environmental factor by contributing to environment.
+Nowadays, our world is facing several challenging environmental problems. So, there's need to become increasingly aware of the problems that surround us. Most of the people are not aware about these problems, and if someone is aware, they don't know the solutions to tackle this, or they need a platform or community where with like minded people they would be able to bring positive inclination in environmental factor by contributing to environment.
 
 ## The Solution
+Flora world is a garden community platform where people can share garden hacks with each other and help to keep themselves aware about environmental challenges, and as a community they would be able to solve the problem using this Platform.
 
 ## How can technology help?
+
 ## How it works?
 
 
