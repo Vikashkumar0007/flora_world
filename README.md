@@ -53,7 +53,6 @@ Also, when community will grow community admin would be able to organise Gardeni
 
 ## Technology
 Java, Android Studio IDE
-Building beautiful UIs with Android Studio IDE
 
 ## Maintainers
 This project is mantained by:
