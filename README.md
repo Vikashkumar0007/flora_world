@@ -20,7 +20,12 @@ This package was implemented using Android Studio
 
 ## What's the problem?
 Nowadays, our world is facing several challalenging environmental problems. So, there's need to become increasingly aware of the problems that surround it. Most of the people are not aware about these problems, and if someone is aware, they don't know the solutions to tackle this, or they need a platform or community where with like minded people they would be able to bring positive inclination in environmental factor by contributing to environment.
-
+There are various problem like:
+1.Are the seeds good?
+2.If we sow them, will they turn into a huge tree? 
+3.What kinds of insecticides we can use on my plant? 
+4.Would excessive watering them can cause harm? 
+5.Which type of soil is good for the plant? 
 ## The Solution
 
 ## How can technology help?
