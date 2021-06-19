@@ -19,7 +19,10 @@ This package was implemented using Android Studio
 * Technology Used
 
 ## What's the problem?
+Nowadays, our world is facing several challalenging environmental problems. So, there's need to become increasingly aware of the problems that surround it. Most of the people are not aware about these problems, and if someone is aware, they don't know the solutions to tackle this, or they need a platform or community where with like minded people they would be able to bring positive inclination in environmental factor by contributing to environment.
+
 ## The Solution
+
 ## How can technology help?
 ## How it works?
 
