@@ -60,6 +60,6 @@ Java, Android Studio IDE
 ## Maintainers
 This project is mantained by:
 * Dikshant Bohra
-* Priyanka Kumari
+* Priyanka Kumari (https://github.com/PriyankaBhardwaj02)
 * Amrit Raj
 * Puja Kumari
