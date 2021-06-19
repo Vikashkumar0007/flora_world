@@ -27,9 +27,12 @@ There are various problem like:
 4.Would excessive watering them can cause harm? 
 5.Which type of soil is good for the plant? 
 ## The Solution
-
+1.
+Water test: Take your seeds and put them in a container of water. Let them sit for about 15 minutes. Then if the seeds sink, they are still viable; if they float, they most likely will not sprout.
+2.The seed contains an embryo ready to form roots, a stem and the first leaves. Once the coat around the seed is moistened, the embryo cells expand and burst out in a process called germination.Then surely the seeds will germinate and grow further. 
 ## How can technology help?
 ## How it works?
+
 
 ## Installation
 Clone this repository and import into **Android Studio**
