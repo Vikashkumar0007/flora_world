@@ -55,7 +55,7 @@ Also, when community will grow community admin would be able to organise Gardeni
 ## Flora World App - Android Preview
 
 ## Technology
-Java, Android Studio IDE, Firebase
+Java, Android Studio IDE, Firebase, python
 
 ## Maintainers
 This project is mantained by:
